@@ -5,7 +5,7 @@ A 16-year-old aspiring full stack web developer from Canada who loves creating a
 Frontend Development: `HTML` `CSS`  
 Backend: `PHP`  
 Version Control: `Git`   
-I’m currently learning: `React` `PHP`
+I’m currently learning: `React` `PHP` `MySQL`
 
 ### 🥳 Facts
 - 2x ICS3U courses, rest is self-taught
