@@ -1,4 +1,4 @@
-### Hey, I'm Mohammed 👋
+### Hey, I'm Adam 👋
 A 16-year-old aspiring full stack web developer from Canada who loves creating awesome web applications. Check out my projects and feel free to connect with me!
 
 ### 📦 Toolbox
